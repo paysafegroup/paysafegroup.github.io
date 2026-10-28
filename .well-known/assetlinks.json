@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.paysafe.example",
+      "sha256_cert_fingerprints": [
+        "B6:2C:11:40:5D:1E:A1:DB:BD:FB:23:74:DA:2A:C0:E2:F3:85:11:A8:BC:B7:75:20:D5:89:3A:3B:D5:3B:52:CA"
+      ]
+    }
+  }
+]
