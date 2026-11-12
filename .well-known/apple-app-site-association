@@ -6,6 +6,13 @@
         "paths": [
           "/braintree-payments/*"
         ]
+      },
+      {
+        "appID": "JQ29TUS2B9.com.paysafe.payments.DemoAppExpo",
+        "paths": [
+          "/braintree-payments",
+          "/braintree-payments/*"
+        ]
       }
     ]
   }
